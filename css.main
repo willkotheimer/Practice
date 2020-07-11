@@ -1,0 +1,5 @@
+/* main css */
+
+nav {
+    color: #121212;
+}
